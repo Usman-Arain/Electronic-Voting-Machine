@@ -1,8 +1,8 @@
-Components Required
+#Components Required
 
-Arduino UNO
-breadboard
-16x2 Cristel display
-push buttens
-lEDs
-jumpwire
+* Arduino UNO
+* Breadboard
+* 16x2 Cristel Display
+* Push Buttens
+* LEDs
+* Jumpwire
